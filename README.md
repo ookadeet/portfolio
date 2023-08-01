@@ -5,4 +5,4 @@
 - Psychology B.Sc - The University of Manchester 2011
 
 ## Work Experience
-**Resource Planning Professional @ EE - April 2018 to Present**
+Resource Planning Professional @ EE - April 2018 to Present
