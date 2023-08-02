@@ -1,8 +1,6 @@
-# Data Science Apprentice Portfolio
+# Data Science Portfolio
+Welcome! Here you will find a collection of Data Science projects done as part of my apprenticeship, or done in my free time.
 
-## Education
-- Data Science B.Sc (Apprenticeship) - BPP University 2025
-- Psychology B.Sc - The University of Manchester 2011
+**[LinkedIn](https://www.linkedin.com/in/hannah-reiss-6164b6253)**
 
-## Work Experience
-Resource Planning Professional @ EE - April 2018 to Present
+## Projects
