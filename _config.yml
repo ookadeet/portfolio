@@ -1,3 +1,6 @@
 title: Data Science Portfolio
 logo: /assets/img/Hannah Reiss Logo.png
 theme: jekyll-theme-minimal
+
+description: A collection of data science and machine learning projects.
+show_downloads: false
